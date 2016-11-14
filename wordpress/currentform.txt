@@ -21,7 +21,7 @@
     </div>
  
     <div>
-        <label for='g587-address' class='grunion-field-label text'>Address<span>(required)</span></label>
+        <label for='g587-address' class='grunion-field-label text'>Street address<span>(required)</span></label>
         <input type='text' name='g587-address' id='g587-address' value='' class='text'  required aria-required='true'/>
     </div>
     <div>
